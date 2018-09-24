@@ -1,0 +1,23 @@
+{
+  "name": "native-inputs",
+  "version": "1.0.0",
+  "description": "react native inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njnest/native-inputs.git"
+  },
+  "keywords": [
+    "react",
+    "react-native"
+  ],
+  "author": "Nick Nesterov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/njnest/native-inputs/issues"
+  },
+  "homepage": "https://github.com/njnest/native-inputs#readme"
+}
